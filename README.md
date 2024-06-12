@@ -1,6 +1,5 @@
-![image](https://github.com/hasithacharith07/terraform-aws-infrastructure/assets/167498308/d5a5bbe0-012c-4c87-948f-832f06e0f74b)
-
 # Terraform AWS Infrastructure
+![image](https://github.com/hasithacharith07/terraform-aws-infrastructure/assets/167498308/d5a5bbe0-012c-4c87-948f-832f06e0f74b)
 
 This repository contains Terraform configuration files to set up AWS infrastructure as per the provided architecture diagram.
 
